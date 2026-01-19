@@ -17,7 +17,7 @@ The objective of this project is to detect whether an image has been digitally e
 ## Submitted By
 
 **Priyanka Priyadarshini Das (UCSE23042)**
-
+**Ishika Bandopadhyay (UCSE23027)**
 ---
 
 ## Motivation
