@@ -37,7 +37,13 @@ I developed PicTruth to provide a **simple and computationally efficient method*
 - To classify images as **likely not edited** or **might be edited**
 
 ---
+## Contribution
 
+- Documentation improvements
+- Project review
+- Running TestCases
+
+---
 ## Key Features
 
 - Works for both **grayscale and colour images**
